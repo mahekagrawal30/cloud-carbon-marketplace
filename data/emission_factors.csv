@@ -1,0 +1,7 @@
+region,carbon_intensity_kg_per_kwh,cleaner_alternative_region
+ap-south-1,0.710,eu-north-1
+us-east-1,0.390,eu-north-1
+central-india,0.650,eu-north-1
+asia-south1,0.680,europe-north1
+eu-north-1,0.050,eu-north-1
+europe-north1,0.050,europe-north1

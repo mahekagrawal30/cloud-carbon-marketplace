@@ -1,0 +1,4 @@
+project_id,name,type,country,standard,price_per_tonne,available_credits,description
+P001,Deccan Wind Energy,Renewable Energy,India,Gold Standard,12,1000,Funds grid-connected wind turbines that displace fossil-fuel generation.
+P002,Western Ghats Forest Restoration,Reforestation,India,Verra,15,500,Supports native forest restoration and long-term community stewardship.
+P003,Landfill Methane Capture,Waste Management,India,Verra,10,800,Captures landfill methane for controlled destruction and energy recovery.

@@ -1,0 +1,19 @@
+month,provider,service,region,usage_hours,energy_kwh,cost_usd
+2026-01,AWS,EC2,ap-south-1,720,180,252
+2026-01,AWS,S3,ap-south-1,500,42,80
+2026-01,AWS,RDS,us-east-1,720,155,214
+2026-01,Azure,Virtual Machines,central-india,720,165,238
+2026-01,Azure,Blob Storage,central-india,450,38,64
+2026-01,GCP,Compute Engine,asia-south1,720,172,245
+2026-02,AWS,EC2,ap-south-1,720,194,268
+2026-02,AWS,S3,ap-south-1,510,44,83
+2026-02,AWS,RDS,us-east-1,672,139,198
+2026-02,Azure,Virtual Machines,central-india,720,171,246
+2026-02,Azure,Blob Storage,central-india,410,34,59
+2026-02,GCP,Compute Engine,asia-south1,720,181,258
+2026-03,AWS,EC2,eu-north-1,720,165,260
+2026-03,AWS,S3,ap-south-1,500,41,79
+2026-03,AWS,RDS,us-east-1,720,151,210
+2026-03,Azure,Virtual Machines,central-india,720,160,235
+2026-03,Azure,Blob Storage,central-india,380,31,55
+2026-03,GCP,Compute Engine,asia-south1,720,175,250
